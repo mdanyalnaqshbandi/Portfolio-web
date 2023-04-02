@@ -1,0 +1,318 @@
+.back{
+    background-color: rgb(160, 148, 148)
+    color: white;
+    font-family: arial;
+    font-weight:normal ;
+    font-size: medium;
+    font-size: 34px;
+    padding-top: 80px;
+    
+}
+.emoji{
+    width: 15px;
+    padding-top: 3px;
+    padding-left:15px ;
+    
+}
+.Heading{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 45px;
+    margin-left: 184px;
+
+}
+.heading2{
+    color: rgb(248, 244, 5);
+}
+.Dani{
+    font-family: arial ;
+    font-size: 20px;
+    padding-top: 2px;
+}
+.cont2{
+    margin-top:90px ;
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'arial';
+    border: 1px solid;
+    border-style: hidden;
+    margin-left:180px ;
+    margin-right: 240px;
+    padding-left: 30px;
+    background-color:rgb(119, 119, 133);
+    display: flex;
+    
+    
+}
+.name{
+    padding-right: 70px;
+    padding-left: -20px;
+    
+}
+.home{
+    padding-right: 15px;
+    color:rgb(250, 252, 253);
+   }
+.port{
+    padding-right: 15px;
+    color:rgb(250, 252, 253);
+}
+.Testimonial{
+    padding-right: 15px;
+    color:rgb(246, 247, 248);
+}
+.about{
+    padding-right: 200px;
+    color:rgb(249, 250, 252);
+   
+    
+}
+.image1{
+    padding-right: 15px;
+}
+.image2{
+    padding-right: 15px;
+    
+}
+.images3{
+    padding-right: 15px;
+    padding-top: -15px;
+    
+}
+.into1{
+    font-size: 40px;
+    font-family: arial;
+    margin-left: -795px;
+    margin-top: 90px;
+}
+.into2{
+    font-size: 40px;
+    font-family: arial;
+    margin-left: -52px;
+    margin-top: 140px;
+    font-weight:bold ;
+}
+/* .hr{
+    margin-top: 10px;
+
+    
+} */
+
+.into3{
+    font-size: 15px;
+    font-family: arial;
+    margin-left: -250px;
+    margin-top: 220px;
+}
+.image4{
+    border: 1px solid;
+    border-radius: 80%;
+    margin-left: 50px;
+    margin-top: 70px;
+    border-style: hidden;
+    background-color: rgb(1, 12, 12);
+
+}
+.into4{
+    margin-top: 100px;
+    margin-left: 15px;
+
+}
+.into5{
+    font-size: 14px;
+    margin-top: 130px;
+    margin-left: -75px;
+}
+.into6{
+    font-size: 14px;
+    margin-top: 190px;
+    margin-left:-180px;
+    color: rgb(249, 174, 35);
+} 
+
+.image5{
+    padding-left: 12px;
+    padding-top: 190px;
+}
+.both{
+display: flex;
+    margin-top: 220px;
+    margin-left:-107px ;
+} 
+.image6{
+    padding-right: 5px;
+}
+.image7{
+    padding-right: 5px;
+}
+.image8{
+    padding-right: 8px;
+}
+.group{
+    display: flex;
+    margin-top: 1px;
+    border: 1px solid;
+    margin-left:210px;
+    margin-right: 330px;
+    
+    border-style:hidden ;
+    padding-top: 4px;
+    margin-bottom: 8px;
+}
+.cont3{
+    background-color: rgb(156, 168, 168);
+    margin-left:180px ;
+    margin-right: 240px;
+    
+}
+.meta{
+    margin-right: 20px;
+    margin-top: 10px;
+    background-color: rgb(253, 245, 245);
+    margin-bottom: 35px;
+    margin-left: 15px;
+    padding-top: 4px;
+    height:50px;
+  
+    
+}
+.google{
+    margin-right: 20px;
+    background-color: rgb(243, 252, 249);
+    margin-bottom: 15px;
+    margin-top:10px;
+
+    height: 50px;
+   padding-top: -20px;
+    height: 55px;
+
+}
+.linked{
+  margin-right: 20px; 
+  background-color: rgb(251, 255, 253);
+  margin-bottom: 15px;
+  margin-top:10px;
+  margin-bottom:35px ; 
+  padding-top: 15px;
+  height:40px;
+}
+.facebook{
+    margin-right: 20px;
+    background-color: rgb(245, 238, 238);
+    margin-bottom: 15px;
+    margin-top:10px;
+    margin-bottom:35px ; 
+    padding-top: 2px;
+    height: 51px
+  }
+.Can{
+    margin-left: 40px;
+    font-family: arial;
+
+}
+.Can1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.Can2{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.Can3{
+    color: orange;
+    font-size: 32px;
+    font-weight: ;
+    margin-top: 25px;
+    
+}
+.Can4{
+    color: cadetblue;
+    font-size: 17px;
+    margin-top: 5px;
+}
+.Can5{
+    color: orange;
+    font-size: 32px;
+}
+.Can6{
+    color: cadetblue;
+    font-size: 17px;
+}
+.CAN56{
+    margin-left: 169px;
+    margin-top: -56px;
+    
+}
+.Can7{
+    color: orange;
+    font-size: 32px;
+    margin-top: 50px;
+}
+.Can8{
+    color: orange;
+    font-size: 32px;
+    margin-left: 169px;
+    margin-top: -35px;
+    
+}
+.pro{
+    margin-left: 450px;
+ 
+
+}
+.pic1{
+    margin-top: -320px;
+
+}
+.pic01{
+    font-size: 20px;
+    
+
+} 
+.pic02{
+
+font-size: 20px;
+}
+.pic0102{
+    margin-left: 103px;
+    margin-top: -83px;
+}
+.hr2{ 
+    width: 375px;
+    color: black;
+    margin-top: 59px;
+    
+
+}
+.gram{
+  margin-left: 444px;
+} 
+.pict2{
+
+}
+.pict01{
+    font-size: 20px;
+}
+.pict02{
+    font-size: 20px;
+}
+.pict0102{
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.hr3{
+    margin-top: 44px;
+}
+.ing{
+    margin-left: 450px;
+}
+.picture01{
+    
+}
+.picture0102{
+    font-size: 20px;
+    margin-left: 85px;
+    margin-top:-50px ;
+}
+
+  
